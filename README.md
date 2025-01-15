@@ -1,1 +1,1 @@
-# End To End Deep Learning Projects With Simple RNN
+# End To End Deep Learning Project With Simple RNN
